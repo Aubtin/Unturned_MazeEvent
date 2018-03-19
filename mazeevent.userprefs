@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="mazeevent/PlayerData.cs">
+    <Files>
+      <File FileName="mazeevent/CommandMazeEvent.cs" Line="1" Column="1" />
+      <File FileName="mazeevent/MazeEvent.cs" Line="1" Column="1" />
+      <File FileName="mazeevent/MazeEventConfiguration.cs" Line="1" Column="1" />
+      <File FileName="mazeevent/PlayerData.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
